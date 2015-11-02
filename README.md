@@ -1,6 +1,11 @@
 # eZConfig
-LabVIEW .ini configuration library
+LabVIEW **.ini** configuration library
 
+##Download and install
+There are several ways to download, you can get a **.zip** file, clonning or forking the project.
+Once yo get the source code, move it and placed on the prefered drive folder location.
+
+##How to use it
 
 
 
